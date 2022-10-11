@@ -70,7 +70,3 @@ Follow the interactive prompt to generate a post with pre-filled front matter.
 
 **Vercel**  
 The easiest way to deploy the template is to use the [Vercel Platform](https://vercel.com) from the creators of Next.js. Check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-## Credit
-
-Like the blog? [Support the parent repo that made this blog possible](https://github.com/timlrx/tailwind-nextjs-starter-blog) by by giving a star on GitHub, and giving a shoutout on Twitter or becoming a project [sponsor](https://github.com/sponsors/timlrx).
